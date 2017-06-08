@@ -1,5 +1,5 @@
 
-# Karma Clone - An Imitation of Karma's Home Page Using Only the Nakes Eye
+# Karma Clone - An Imitation of Karma's Home Page Using Only the Naked Eye
 
 gh-pages url: http://auldsy-ababua.github.io/karma-clone/
 
